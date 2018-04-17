@@ -1,3 +1,4 @@
+Must Have :
 1. Gson
 2. Volley
 3. DataBinding
@@ -12,15 +13,18 @@
 12. BaseActivity & BaseFragment
 
 
-
-Studio Plugins 
+Studio Plugins  :
 1. CodeGlance
 2. ADB Idea
 
-Hacking tool
+
+Hacking tool :
 1. Burp suite
+
 
 Links : 
 1. https://www.geeksforgeeks.org
 2. https://github.com/MindorksOpenSource/android-interview-questions
 3. https://android.jlelse.eu/be-reactive-develop-your-next-app-with-rxjava-4f00bfde0020
+
+
