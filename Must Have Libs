@@ -16,6 +16,7 @@ Must Have :
 Studio Plugins  :
 1. CodeGlance
 2. ADB Idea
+3. Freeline - fast run using hotswap
 
 
 Hacking tool :
@@ -27,4 +28,17 @@ Links :
 2. https://github.com/MindorksOpenSource/android-interview-questions
 3. https://android.jlelse.eu/be-reactive-develop-your-next-app-with-rxjava-4f00bfde0020
 4. https://material.uplabs.com
+
+5. https://github.com/search?utf8=%E2%9C%93&q=tools+android&type=Repositories&ref=searchresults
+6. https://github.com/futurice/android-best-practices
+7. https://plus.google.com/communities/100609058582053363304
+8. https://github.com/JStumpp/awesome-android
+9. https://github.com/majidgolshadi/Android-Download-Manager-Pro
+10. https://www.materialpalette.com/purple/deep-purple
+11. https://trivedihardik.wordpress.com/2011/08/20/how-to-avoid-force-close-error-in-android/
+12. http://www.java2s.com/Open-Source/Android_Free_Code/Sensor/acceleration/index.htm
+
+JNI and SQL cipher :
+1. https://permadi.com/2011/09/creating-your-first-android-jnindk-project-in-eclipse-with-sequoyah/
+2. https://androidbycode.wordpress.com/2015/02/18/android-database-encryption-using-sqlcipher/
 
