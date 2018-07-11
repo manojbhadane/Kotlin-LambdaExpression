@@ -22,7 +22,7 @@ Functions uses with and withoud Lambda
             println("--large number is among 3,7 is ----" + LargeNumberLambda(3, 7))
 
         6.  var myName: (String) -> Unit = { name: String -> println("My name is '$name'") }
-            myName("manoj")
+            myName("manoj bhadane")
             
             
 Functions Definitions
